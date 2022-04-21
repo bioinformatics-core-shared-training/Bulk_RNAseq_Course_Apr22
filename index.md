@@ -1,5 +1,5 @@
 # Introduction to Bulk RNA-seq data analysis
-### 17th, 24th February and 3rd March 2022
+### 28th April, 5th and 12th May 2022
 #### Taught remotely
 #### Bioinformatics Training, Craik-Marshall Building, Downing Site, University of Cambridge
 
@@ -9,13 +9,11 @@
 
 * Abigail Edwards - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Ashley D Sawle - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Jon Price - Miska Group, Gurdon Institute, Cambridge
-* Hugo Tavares - Bioinformatics Training Facility, Dept of Genetics
+* Chandra Chilamakuri - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Chloe Pacyna - Welcome Sanger Institute
+* Jon Price - Miska Group, Gurdon Institute, Cambridge
 * Sankari Nagarajan - University of Manchester
-* Carolin Sauer - Brenton Group, Cancer Research UK Cambridge Institute
 * Tom Smith - Bioinformatics Faciltiy, MRC Toxicology Unit, Cambridge
-
 
 ## Outline
 
@@ -50,7 +48,7 @@ as we go.
 ## Shared Google Document
 
 This
-[Google Document](https://docs.google.com/document/d/1minSG0F72YCeObH9jntjZO1DgLF8jsyzu23hdJP5tZ8/edit) contains useful information and links..
+[Google Document](https://docs.google.com/document/d/1dx616Oy11Q4LiVjUnuPvdroulSn2lpeIcDtws5XLwbE/edit?usp=sharing) contains useful information and links..
 
 Please use it to post any questions you have during the course.
 
@@ -60,7 +58,7 @@ as they can.
 ## Introduce Yourself
 
 There is another Google Doc
-[Google Document](https://docs.google.com/document/d/16W723pDWTUAsTmsjF29L3bOTxIv7i3NVAr1ST1ugPfk/edit)
+[Google Document](https://docs.google.com/document/d/1CcKEdlMxmFx3hyt1jwebQ9TgXKlo-OlW-n3CPFfrVFE/edit?usp=sharing)
 Please write a couple sentences here to introduce yourself to the class, tell
 us a bit about your background and what you hope to get out of this course.  If
 you are a student or staff at the University of Cambridge, tell us which
@@ -105,32 +103,32 @@ Methods](Bulk_RNAseq_Course_Base/Markdowns/01_Introduction_to_RNAseq_Methods.htm
 10:15 - 11:15 [Raw read file format and
 QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html)  - Jon Price  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.pdf))   
-    - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.pdf))  
+   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.pdf))  -->
 
 11:15 - 12:45 [Short read alignment with
-HISAT2](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_introduction.html) - Jon Price  
+HISAT2](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_introduction.html) - Ashley Sawle  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.html)  ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.pdf))    
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.pdf))
+<!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.pdf)) -->
 
 12:45 - 13:45 Lunch
 
-13:45 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.html) - Jon Price  
+13:45 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.html) - Ashley Sawle  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.pdf))  
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.pdf))
+ <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.pdf)) -->
 
-15:30 - 17:00 [Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_introduction.html) - Ashley D Sawle  
+15:30 - 17:00 [Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_introduction.html) - Abbi Edwards  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.html)  ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.pdf))  
-    - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.Solutions.pdf))
+  <!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.Solutions.pdf)) -->
 
 ### Day 2
 
 9:30 - 10:15  [Introduction to RNAseq Analysis in
-R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.html) - Sankari Nagarajan  
+R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.html) - Tom Smith
 
 10:15 - 12:15 - [RNA-seq
-Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.pdf)) - Abbi Edwards   
-   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.Solutions.pdf))   
-    [Live script](live_scripts/DataExploration.R)
+Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.pdf)) - Tom Smith   
+  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.Solutions.pdf))   
+    [Live script](live_scripts/DataExploration.R) -->
 
 12:15 - 13:15 Lunch
 
@@ -144,28 +142,28 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 
 15:45 - 17:00 - [Differential Expression for RNA-seq - Part 1](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.html)
-([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.pdf)) - Abbi Edwards
-- [Live script](live_scripts/DESeq2_part1.R)
+([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.pdf)) - Chandra Chilamakuri
+<!-- - [Live script](live_scripts/DESeq2_part1.R) -->
 
 ### Day 3
 
-9.30 - 10.00 - [Recap of Day 1 and 2](https://docs.google.com/presentation/d/15Nz5Kv5uMOG96ai6cZ06igMuYlCd3Rm6Ls071nOMZyc/edit?usp=sharing) - Ashley D Sawle
+9.30 - 10.00 - [Recap of Day 1 and 2](https://docs.google.com/presentation/d/15Nz5Kv5uMOG96ai6cZ06igMuYlCd3Rm6Ls071nOMZyc/edit?usp=sharing) - Chandra Chilamakuri
 
-10.00 - 12:00 - [Differential Expression for RNA-seq - Part 2](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.pdf)) - Abbi Edwards   
-   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.pdf))  
+10.00 - 12:00 - [Differential Expression for RNA-seq - Part 2](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.pdf)) - Chandra Chilamakuri   
+  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.pdf))  
      - [live script](live_scripts/DESeq2_part2.R)
-     - [extra models plots](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Expl_all.pdf)
+     - [extra models plots](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Expl_all.pdf) -->
 
-12.00 - 12.45 [Annotation and Visualisation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html) - Ashley D Sawle
+12.00 - 12.45 [Annotation and Visualisation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html) - Abbi Edwards
 
 12.45 - 13.45 Lunch
 
 13.45 - 15.00 [Annotation and Visualisation of RNA-seq
-results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.pdf)) - Ashley D Sawle   
+results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.pdf)) - Abbi Edwards   
   <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation_Solutions.html)   -->
   <!-- - [live script](live_scripts/day3_vis_anno_v1.0.R) -->
 
-15:00 - 17:00 [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing_introduction.html) - Ashley D Sawle
+15:00 - 17:00 [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing_introduction.html) - Abbi Edwards
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.pdf)
 <!--   - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Solutions.pdf) -->
 
@@ -217,6 +215,7 @@ Mark Fernandes
 Oscar Rueda
 Sankari Nagarajan
 Stephane Ballereau
+Tom Smith
 Zeynep Kalender Atak
 
 Apologies if we have missed anyone!
