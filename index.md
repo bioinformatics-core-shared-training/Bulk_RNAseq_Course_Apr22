@@ -13,7 +13,7 @@
 * Chloe Pacyna - Welcome Sanger Institute
 * Jon Price - Miska Group, Gurdon Institute, Cambridge
 * Sankari Nagarajan - University of Manchester
-* Tom Smith - Bioinformatics Faciltiy, MRC Toxicology Unit, Cambridge
+* Tom Smith - Bioinformatics Facility, MRC Toxicology Unit, Cambridge
 
 ## Outline
 
