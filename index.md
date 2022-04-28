@@ -103,12 +103,12 @@ Methods](Bulk_RNAseq_Course_Base/Markdowns/01_Introduction_to_RNAseq_Methods.htm
 10:15 - 11:15 [Raw read file format and
 QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.pdf)) - Jon Price  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.pdf))   
-   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.pdf))  -->
+    - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.pdf))  
 
 11:15 - 12:45 [Short read alignment with
 HISAT2](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_introduction.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_introduction.pdf)) - Ashley Sawle  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.html)  ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.pdf))    
-<!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.pdf)) -->
+    - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.pdf))  
 
 12:45 - 13:45 Lunch
 
